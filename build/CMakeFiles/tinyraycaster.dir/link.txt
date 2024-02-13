@@ -1,3 +1,0 @@
-"C:\Program Files\CMake\bin\cmake.exe" -E rm -f CMakeFiles\tinyraycaster.dir/objects.a
-C:\raylib\w64devkit\bin\ar.exe qc CMakeFiles\tinyraycaster.dir/objects.a @CMakeFiles\tinyraycaster.dir\objects1.rsp
-C:\raylib\w64devkit\bin\c++.exe -Wl,--whole-archive CMakeFiles\tinyraycaster.dir/objects.a -Wl,--no-whole-archive -o tinyraycaster.exe -Wl,--out-implib,libtinyraycaster.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\tinyraycaster.dir\linkLibs.rsp
