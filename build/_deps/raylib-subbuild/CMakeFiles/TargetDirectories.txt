@@ -1,0 +1,3 @@
+D:/Programacion/Raylib/tinyraytracer/build/_deps/raylib-subbuild/CMakeFiles/raylib-populate.dir
+D:/Programacion/Raylib/tinyraytracer/build/_deps/raylib-subbuild/CMakeFiles/edit_cache.dir
+D:/Programacion/Raylib/tinyraytracer/build/_deps/raylib-subbuild/CMakeFiles/rebuild_cache.dir
